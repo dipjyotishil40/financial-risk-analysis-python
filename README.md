@@ -235,4 +235,6 @@ Importantly, the analysis identifies **potential risk indicators** and does not 
 financial-risk-analysis-python/
 │
 ├── Financial_Risk_Analysis.ipynb
-└── README.md
+├── FINANCIAL RISK ANALYSIS WITH PYTHON.pdf
+├── README.md
+└── .gitignore
